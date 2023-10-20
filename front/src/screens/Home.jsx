@@ -12,9 +12,7 @@ const Home = () => {
                         <h4 className="text-white text-2xl text-center ">
                             Transformamos
                         </h4>
-                        <h1 className="text-white font-bold text-5xl text-center bold ">
-                            IDEAS
-                        </h1>
+                        <h1 className="text-white font-bold text-5xl text-center bold ">IDEAS</h1>
                         <h4 className="text-white text-2xl text-center ">en</h4>
                         <h1 className="text-white font-bold text-5xl text-center bold ">
                             SOLUCIONES DIGITALES
