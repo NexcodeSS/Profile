@@ -8,7 +8,6 @@ const Navbar = ({ scrollToSection }) => {
         scrollToSection(section);
         setSectionActive(section);
     };
-
     return (
         <div className=" flex w-full h-[10vh] bg-[black] fixed z-50 text-white">
             <div className="flex items-center w-[20%] pl-5">
